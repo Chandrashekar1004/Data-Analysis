@@ -165,5 +165,5 @@ Rather than focusing only on overall averages, the report allows these factors t
 ## 📌 Disclaimer
 
 The analysis is based on survey responses and reflects the characteristics of the respondents included in the dataset. The results should therefore not be interpreted as representative of the entire data industry or workforce.
-
-##CREDITS: Data taken from youtube channel : @AlexTheAnalyst (https://www.youtube.com/@AlexTheAnalyst)
+---
+## CREDITS: Data taken from youtube channel : @AlexTheAnalyst (https://www.youtube.com/@AlexTheAnalyst)
